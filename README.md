@@ -58,7 +58,9 @@ With the rapid rise in electronics consumption, managing electronic waste (e-was
 ## Result & Evaluation
 - Training Accuracy: ~95%
 - Validation Accuracy: ~60%
-- Evaluation metrics included:-Confusion Matrix -Classification Report (Precision, Recall, F1-Score)
+- Evaluation metrics included:
+  -Confusion Matrix
+  -Classification Report (Precision, Recall, F1-Score)
 - Visualized results using seaborn heatmaps and matplotlib plots
 
 ## Deployment
