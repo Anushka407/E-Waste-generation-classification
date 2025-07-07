@@ -8,14 +8,14 @@ With the rapid rise in electronics consumption, managing electronic waste (e-was
 
 ## Tools & Technologies Used
 
-|- Category          |	                      |     Tool/Library          |
-|- Language          |        	            |     Python                |
-|-|ML/DL Framework   |           	            |    TensorFlow / Keras     |
-|- Data Manipulation |             	       |    NumPy                  |
-|- Visualization     | 	                      |    Matplotlib, Seaborn    |
-|- Evaluation        |	                      |       Scikit-learn        |
-|- Deployment        |	                      |        Gradio             |
-|- IDE	           |                         |     Jupyter Notebook      |
+| Category           | Tools/Frameworks Used                          |
+|--------------------|------------------------------------------------|
+| Programming Language | Python |
+| Deep Learning      | TensorFlow, Keras |
+| Visualization      | Matplotlib, Seaborn |
+| Evaluation         | scikit-learn |
+| Deployment         | Gradio |
+| Environment        | Jupyter Notebook |
 
 
 ## Dataset
@@ -58,9 +58,7 @@ With the rapid rise in electronics consumption, managing electronic waste (e-was
 ## Result & Evaluation
 - Training Accuracy: ~95%
 - Validation Accuracy: ~60%
-- Evaluation metrics included:
-                              -Confusion Matrix
-                              -Classification Report (Precision, Recall, F1-Score)
+- Evaluation metrics included:-Confusion Matrix -Classification Report (Precision, Recall, F1-Score)
 - Visualized results using seaborn heatmaps and matplotlib plots
 
 ## Deployment
